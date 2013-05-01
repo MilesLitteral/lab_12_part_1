@@ -1,5 +1,5 @@
 ---
-title:About
+title: About
 ---
 # About
 ## Topics
@@ -11,3 +11,5 @@ title:About
 * more noise from the ceiling
 
 ## Labs
+1.	create a page on github
+1.	use markdown to create a page
